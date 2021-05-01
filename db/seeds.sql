@@ -1,5 +1,5 @@
   
-USE employee_tracker_db;
+USE tracker_DB;
 
 INSERT INTO department(name)
 VALUES ("Sales");
